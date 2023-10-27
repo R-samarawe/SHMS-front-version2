@@ -1,0 +1,26 @@
+.sign-up-page {
+    height: 100vh;
+    background-color: #f8f9fa;
+    background: url('./RegisterBackground.jpg') center/cover no-repeat;
+  
+    .sign-up-form {
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);}
+  
+      h1 {
+        text-transform: uppercase;
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+  
+      .form-group {
+        margin-bottom: 35px;
+      }
+  
+      .btn-register {
+        width: 100%;
+        margin-top: 10px;
+      }
+    }
